@@ -1,0 +1,14 @@
+1.How Javascript Code executes
+2. let, var and const keywords, Hoisting.
+3. arrow function, and how to create it ? also the advantage and disadvantage of using arrow function.
+4. spread operator.
+5. Rest parameter in ES6
+6. template literals in ES6
+7. Destructuring in ES6
+8. Async/Await
+9. Js Single Thread
+10. Event Loop
+11. Promise, resolve
+12. Array-methods(slice, splice, push, pop), Object methods(seal, freeze etc), String Methods
+13. Closures
+14.Reference, Property difference in an object
